@@ -5,6 +5,6 @@
 <title>Best Website</title>
 </head>
 <body>
-<h1><%= "Hello Ziv! AGAIN" %></h1>
+<h1><%= "Hello Ziv!" %></h1>
 </body>
 </html>
