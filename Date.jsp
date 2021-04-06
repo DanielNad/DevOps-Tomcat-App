@@ -1,8 +1,12 @@
+%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
-    <head>
-        <title>Apache Task</title>
-    </head>
-    <body>
-        <h1>Hello Ziv!</h1>
-    </body>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Best Website</title>
+</head>
+<body>
+<%= "Hello Ziv!" %>
+</body>
 </html>
